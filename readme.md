@@ -2,6 +2,15 @@
 
 To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
 
+In your terminal run command <docket-compose up>
+
+When everything is completed go to broser in http://localhost:3000/api/ping
+
+To be clear that everything is working properly backend and fronted make sure you go to http://localhost:3001/register
+
+Register to make sure is working properly.
+
+
 Please find more info about each part in the relevant Readme file ([frontend](frontend/readme.md) and [backend](backend/README.md)).
 
 ## Development
